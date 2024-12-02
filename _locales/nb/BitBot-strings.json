@@ -130,7 +130,7 @@
   "bitbot.lastIRCode|block": "siste IR kode",
   "bitbot.ledBrightness|block": "sett LED lysstyrke %brightness",
   "bitbot.ledClear|block": "skru av alle LED",
-  "bitbot.ledRainbow|block": "set LED til regnbue%dir på%arm|arm(er)"
+  "bitbot.ledRainbow|block": "set LED til regnbue%dir på%arm|arm(er)",
   "bitbot.ledRotate|block": "roter LED",
   "bitbot.ledShift|block": "flytt LED",
   "bitbot.ledShow|block": "vis LED-endringer",
