@@ -131,6 +131,7 @@
   "bitbot.ledBrightness|block": "sett LED lysstyrke %brightness",
   "bitbot.ledClear|block": "skru av alle LED",
   "bitbot.ledRainbow|block": "sett LED til regnbue",
+  "bitbot.rainbow|block": "set LED til regnbue%dir på%arm|arm(er)"
   "bitbot.ledRotate|block": "roter LED",
   "bitbot.ledShift|block": "flytt LED",
   "bitbot.ledShow|block": "vis LED-endringer",
